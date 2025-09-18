@@ -46,4 +46,26 @@ To replicate or explore this project, download the repository files and open the
  - XT30 (Overload connector @ 30A)
  - FT232RL (UART module)
  - ESP32-S3-N4R8 (32bit microcontroller)
+
+# Pinouts
+#### _Communication Interface_
+MOSI | MISO | SCK
+:----: | :----: | :----:
+IO23 | IO19 | 1018
+
+#### _SPI Peripherals_
+RFM95W | GPIO | W25Q128 | GPIO
+:------: | :----: | :-------: | :----:
+  MOSI | IO23 | MOSI    | IO23
+  MISO | IO19 |   MISO  | IO19
+   SCK | IO18 |   SCK   | IO18
+   NSS |  IO5 |   CS    | IO25
+ RESET | IO32 |   -     | -
+   DI0 | IO33 |   -     | -
+
+  #### _UART Peripherals: NEO-6M_
+  TX | RX
+:----: | :----: 
+IO17 | IO16
+  
  
