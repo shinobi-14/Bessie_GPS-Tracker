@@ -71,5 +71,15 @@ RFM95W | GPIO | W25Q128 | GPIO
   TX | RX
 :----: | :----: 
 IO17 | IO16
-  
- 
+
+# Reference Materials
+- [ESP32 Documentation](https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf)
+- [Product Specification for Resistors](https://www.scribd.com/document/399006761/RT0603BRD0710KL) (This helps in selecting the appropriate package size for different applications)
+- [Pull-up resistors tutorial](https://learn.sparkfun.com/tutorials/pull-up-resistors/all#:~:text=In%20other%20words%2C%20a%20small,pin%20reads%20close%20to%20VCC)
+- [EEVblog Youtube](youtube.com/watch?time_continue=1&v=BcJ6UdDx1vg&embeds_referring_euri=https%3A%2F%2Fwww.eevblog.com%2F&source_ve_path=Mjg2NjY) (Highly recommended)
+- [EasyEDA Guide](https://docs.easyeda.com/en/)
+- [DroneBot Workshop Youtube](https://www.youtube.com/watch?v=YQ7aLHCTeeE&t=90s) (Highly Recommended)
+- [geeksforgeeks](https://www.geeksforgeeks.org/operating-systems/what-is-flash-memory/)
+- [Phil's Lab Youtube](https://www.youtube.com/watch?v=WPT96w3eLAM) (Highly Recommended)
+
+Author: Prithvi Raj Singh (shinobi-14)
