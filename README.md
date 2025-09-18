@@ -1,5 +1,9 @@
 # Bessie_GPS-Tracker
 Bessie is the 1st gen custom-built tracker designed and developed in-house for the sounding rocket built for SACUP 24, Agneya.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cc0ac0b0-3443-4d9d-ad59-f4e4dfee9a67" width="29.40%" />
+  <img src="https://github.com/user-attachments/assets/6bf5d3c8-f874-4b6f-8a78-76081e0dc7c5" width="45%" />
+</div>
 
 Bessie is powered by the ESP32-S3-N4R8 microcontroller, chosen for its familiar development environment and comprehensive functionality. It integrates a GPS module for high positional accuracy and a flash module to store data on board.
 
